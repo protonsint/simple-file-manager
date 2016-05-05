@@ -16,5 +16,3 @@ Just copy `index.php` to a folder on your webserver.
 - XSRF protection (though no authentication system)
 
 ## Screenshot
-
-![Screenshot](https://raw.github.com/jcampbell1/simple-file-manager/master/screenshot.png "Screenshot")
