@@ -1,9 +1,8 @@
 simple-file-manager
 ===================
 
-A Simple PHP file manager.  The code is a single php file.  
+A Simple PHP/JSP file manager.  The code is a single php/jsp file.  
 
-Just copy `index.php` to a folder on your webserver.
 
 ## Why it is good
 
